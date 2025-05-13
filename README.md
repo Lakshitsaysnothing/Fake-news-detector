@@ -9,7 +9,7 @@ This is a simple Python-based machine learning project that classifies news arti
 
 # How to run locally 
 # Step 01: Clone the repository:
-git clone https://github.com/YOUR_USERNAME/fake-news-detector.git
+git clone https://github.com/Lakshitsaysnothing/fake-news-detector.git
 cd fake-news-detector
 
 
